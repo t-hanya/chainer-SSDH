@@ -36,7 +36,7 @@ Now, let's start training of SSDH model. Length of output binary code can be spe
 
 ::
 
-   $ python code/train.py -g 0 --out output/unit48 --unit 48
+   $ python code/train.py -g 0 --out output/unit48 --units 48
 
 Please check the all options by using ``--help`` option.
 
